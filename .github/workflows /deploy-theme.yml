@@ -24,4 +24,4 @@ jobs:
           # Password generated from Theme Access app
           SHOPIFY_CLI_THEME_TOKEN: shptka_9d59ecf1f7f1a957b8bfc4ccd481b135
           SHOPIFY_CLI_TTY: 0
-        run: shopify theme push --path ./ --theme 161215283522
+        run: shopify theme push --path ./ --theme 161215709506
